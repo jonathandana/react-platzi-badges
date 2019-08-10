@@ -4,9 +4,17 @@
       "firstName": "Jonathan ",
       "lastName": "Dana",
       "email": "jonathandana27@gmail.com",
-      "jobTitle": "Developer ",
+      "jobTitle": "dasdas ",
       "twitter": "jonathandana27",
       "id": 1
+    },
+    {
+      "firstName": "Danit",
+      "lastName": "Dana",
+      "email": "daniteld@gmai.com",
+      "jobTitle": "Designer",
+      "twitter": "dasdasd",
+      "id": 2
     }
   ]
 }
