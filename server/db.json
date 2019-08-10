@@ -1,8 +1,8 @@
 {
   "badges": [
     {
-      "firstName": "Jonathan ",
-      "lastName": "Dana",
+      "firstName": "Jonathan dana",
+      "lastName": "Danadsadas",
       "email": "jonathandana27@gmail.com",
       "jobTitle": "dasdas ",
       "twitter": "jonathandana27",
@@ -15,6 +15,14 @@
       "jobTitle": "Designer",
       "twitter": "dasdasd",
       "id": 2
+    },
+    {
+      "firstName": "das",
+      "lastName": "Dana",
+      "email": "asd7@gmail.com",
+      "jobTitle": "dsadsadsa",
+      "twitter": "dasdasd",
+      "id": 3
     }
   ]
 }
